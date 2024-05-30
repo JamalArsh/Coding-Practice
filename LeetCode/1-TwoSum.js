@@ -5,7 +5,7 @@
  */
 
 // learned: define variables for correct scope
-// todo: reduce time complexity
+// TODO: reduce time complexity
 
 var twoSum = function (nums, target) {
   let output;
